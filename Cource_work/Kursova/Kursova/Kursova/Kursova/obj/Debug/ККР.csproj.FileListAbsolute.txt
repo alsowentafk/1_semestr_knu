@@ -1,0 +1,20 @@
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe.config
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ККР.csprojAssemblyReference.cache
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Form1.resources
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Properties.Resources.resources
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ККР.csproj.GenerateResource.cache
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ККР.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.exe
+C:\Users\root\Desktop\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe.config
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\ККР.csprojAssemblyReference.cache
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Properties.Resources.resources
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\ККР.csproj.GenerateResource.cache
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\ККР.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.exe
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\2semestr\Тарас Курсова\ККР1\ККР\ДашаККР\ДашаККР\obj\Debug\Kursova.Form1.resources

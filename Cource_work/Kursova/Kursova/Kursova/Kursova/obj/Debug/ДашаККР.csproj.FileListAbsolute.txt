@@ -1,0 +1,20 @@
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe.config
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\bin\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.csprojAssemblyReference.cache
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Form1.resources
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Properties.Resources.resources
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.csproj.GenerateResource.cache
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.exe
+C:\Users\root\Desktop\ДашаККР\ДашаККР\ДашаККР\obj\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.csprojAssemblyReference.cache
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Form1.resources
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.Properties.Resources.resources
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.csproj.GenerateResource.cache
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.exe
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\obj\Debug\ДашаККР.pdb
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe.config
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\bin\Debug\ДашаККР.exe
+C:\Users\root\Desktop\ДашаККР — копия\ДашаККР\ДашаККР\bin\Debug\ДашаККР.pdb
