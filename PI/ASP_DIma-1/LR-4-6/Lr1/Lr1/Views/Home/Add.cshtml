@@ -1,0 +1,42 @@
+﻿@model Lr1.Models.DTP
+@{ ViewBag.Title = "Додавання ДТП";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Додавання ДТП</title>
+</head>
+<body>
+    <div id="content">
+        @Html.ValidationSummary(false)
+        <Form method="post" action="">
+            <Table>
+                <Tr>
+                    <td> <p> Введіть назву: </p> </td>
+                    <Td>
+                        @Html.EditorFor(model => model.Name)
+                    </Td>
+                </Tr>
+                <Tr>
+                    <td> <p> Введіть тип: </p> </td>
+                    <td>
+                        @Html.EditorFor(model => model.Type)
+                    </td>
+                </Tr>
+                <Tr>
+                    <td> <p> Введіть ціну: </p> </td>
+                    <td>
+                        @Html.EditorFor(model => model.Price)
+                    </td>
+                </Tr>
+                <Tr>
+                    <td> <input type="submit" value="Додати" onclick="add()" /> </td>
+                </Tr>
+            </Table>
+        </Form>
+    </div>
+</body>
+</html>
