@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Отдел ДАИ</title>
+</head>
+<body>
+    <div>
+        <h3>Регистрация ДТП</h3>
+        <table>
+            <tr>
+                <td><p>Название ДТП </p></td>
+                <td><p>Тип нарушения </p></td>
+                <td><p>Размер штрафа </p></td>
+                <td></td>
+            </tr>
+            @foreach (var b in ViewBag.Dtps)
+            {
+                <tr>
+                    <td><p> @b.Name </p></td>
+                    <td><p> @b.Type </p></td>
+                    <td><p> @b.Price </p></td>
+                    <td><p> <a href="/Shtraf/Shtraf/@b.Id"> Оформить</a></p></td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

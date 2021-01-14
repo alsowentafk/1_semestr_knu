@@ -1,0 +1,26 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Lr1.Models.DTP
+<h2>Видалення ДТП</h2>
+<dl>
+    <dt>Назва</dt>
+    <dd>
+        @Html.DisplayFor(model => model.Name)
+    </dd>
+
+    <dt>Тип</dt>
+    <dd>
+        @Html.DisplayFor(model => model.Type)
+    </dd>
+
+    <dt>Ціна</dt>
+    <dd>
+        @Html.DisplayFor(model => model.Price)
+    </dd>
+</dl>
+
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Видалити" />
+}
